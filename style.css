@@ -1,0 +1,40 @@
+header {
+    background-color: #000000;
+    color: white;
+    position: absolute;
+    width: 1151px;
+    height:158px;
+    left: 206px;
+    top: 87px;
+
+  }
+  ul{
+    padding-right: 100px;
+
+  }
+.imagem{
+position: absolute;
+width: 100px;
+height: 110px;
+left: 38px;
+top:64px;
+}
+
+.listanome{position: absolute;
+width: 100px;
+height: 100px;
+left: 120px;
+top: 106px;
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+height: 446px;
+left: 373px;
+top: 90px;
+color: 	#000080;
+}
