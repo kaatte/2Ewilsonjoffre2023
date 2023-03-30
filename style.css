@@ -1,40 +1,37 @@
 header {
-    background-color: #000000;
-    color: white;
-    position: absolute;
-    width: 1151px;
-    height:158px;
-    left: 206px;
-    top: 87px;
-
+  background-color:#CDCDCD;
+  color: 000000;
+  justify-content: space-around;
+  padding: 40px;
   }
+
   ul{
-    padding-right: 100px;
-
+  position: absolute;
+  width: 800px;
+  height: 180px;
+  left: 1000px;
+  top: 100px;
   }
+
+.lista{
+  padding-right: 90px;
+  position:absolute;
+  }
+
 .imagem{
-position: absolute;
-width: 100px;
-height: 110px;
-left: 38px;
-top:64px;
+  width: 150px;
+  height: 150px;
+  left:70px;
+  top:70px;
 }
 
-.listanome{position: absolute;
-width: 100px;
-height: 100px;
-left: 120px;
-top: 106px;
-font-family: 'Lexend';
-font-style: normal;
-font-weight: 500;
-font-size: 48px;
-line-height: 60px;
-display: flex;
-align-items: center;
-text-align: center;
-height: 446px;
-left: 373px;
-top: 90px;
-color: 	#000080;
+.item{
+  display: inline-block;
+  margin: 0 40px;
+  font-size: 24px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
 }
