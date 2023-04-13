@@ -3,6 +3,7 @@ header {
   color: 000000;
   justify-content: space-around;
   padding: 40px;
+  margin: 60px
   }
 
   ul{
@@ -34,4 +35,16 @@ header {
 *{
   margin: 0;
   padding: 0;
+}
+body{
+  background: black
+}
+
+h1{
+  position: absolute;
+  width: 200px;
+  height: 250px;
+  left: 100px;
+  top: 400px;
+  color: white
 }
