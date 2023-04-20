@@ -6,15 +6,12 @@ header {
   margin: 60px
   }
 
-  ul{
+  .lista{
   position: absolute;
   width: 800px;
   height: 180px;
   left: 1000px;
   top: 100px;
-  }
-
-.lista{
   padding-right: 90px;
   position:absolute;
   }
@@ -47,4 +44,18 @@ h1{
   left: 100px;
   top: 400px;
   color: white
+}
+.ket{
+  margin: 100px;
+  color: white
+}
+
+.texto{
+  position: absolute;
+  height: 800px;
+  left: 100px;
+  top: 921px;
+  color: white;
+}
+.poesia{
 }
