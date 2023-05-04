@@ -1,3 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: black
+}
+
 header {
   background-color:#CDCDCD;
   color: 000000;
@@ -25,19 +33,12 @@ header {
 
 .item{
   display: inline-block;
-  margin: 0 40px;
+  margin: 40px;
   font-size: 24px;
 }
 
-*{
-  margin: 0;
-  padding: 0;
-}
-body{
-  background: black
-}
 
-h1{
+.h1{
   position: absolute;
   width: 200px;
   height: 250px;
@@ -49,13 +50,26 @@ h1{
   margin: 100px;
   color: white
 }
+.listaket{
+  font-size: 50px;
+  margin-left: 70px;
+}
 
-.texto{
+.poesia{
   position: absolute;
   height: 800px;
   left: 100px;
-  top: 921px;
+  top: 800px;
   color: white;
 }
-.poesia{
+.kkkk{
+  color: white
+}
+.teste{
+  font-size: 20px;
+  background-color: #CDCDCD;
+  padding-left: 90px;
+}
+footer{
+  background: #FFFFFF;
 }
